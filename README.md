@@ -2,9 +2,9 @@ riscV-5-stage-pipeline-cpu
 这是我的一个课程设计项目，这个项目中，我需要从零开始搭建一个5流水线的rv32i架构的cpu，我使用了vivado来完成这个项目   
 
 文件注释如下：
-five_pipeline_cpu 这个file包含了各模块的verilog代码
-project_new 这个file包含了vivado的工程文件  
-riscv 这个file包含了我们这颗cpu需要运行的代码指令  
+five_pipeline_cpu 这个file包含了各模块的verilog代码  
+project_new 这个file包含了vivado的工程文件    
+riscv 这个file包含了我们这颗cpu需要运行的代码指令    
 
 ### RV32I CPU设计概述
 - **指令集**：RV32I是RISC-V指令集的32位基础指令集，包含40条基础指令，涵盖整数运算、存储器访问、控制转移和系统控制等。
